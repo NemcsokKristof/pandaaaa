@@ -1,8 +1,11 @@
 body{
     background-color: beige;
     margin: auto;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 550px;
+    max-height: 550px;
     letter-spacing: 1px;
     text-indent: 1px;
+    border: 2px darkred solid;
+    border-width: 1000%;
+    margin-top: 300px;
 }
