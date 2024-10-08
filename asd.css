@@ -1,5 +1,8 @@
 body{
     background-color: beige;
     margin: auto;
-    
+    max-width: 500px;
+    max-height: 500px;
+    letter-spacing: 1px;
+    text-indent: 1px;
 }
